@@ -1,12 +1,14 @@
 @font-face {
-    font-family: "pricedown";
-    src: local("pricedown"), url(./pricedown.ttf), format('ttf');
+    font-family: "Pricedown";
+    src: local("Pricedown"), url('./pricedown.ttf') format('truetype');
 }
 
 
 
-h1 {
+.coolFont {
+    font-family: 'Pricedown';
     color: white;
-    font-family: "pricedown";
+    font-size: 6rem;
+    padding-bottom: 0rem;
 }
 
