@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Pricedown";
-    src: local("Pricedown"), url('./pricedown.ttf') format('truetype');
+    src: local("Pricedown"), url('../pricedown.ttf') format('truetype');
 }
 
 
